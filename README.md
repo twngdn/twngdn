@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @twngdn
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python 3
+- 👋 Hi, I’m @twangden
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning python and linux
 - 📫 How to reach me by mailing me on tenzwang171@gmail.com
 
 <!---
