@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @twangden
+- 👋 Hi, I’m @twngdn
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning python and linux
 - 📫 How to reach me by mailing me on tenzwang171@gmail.com
